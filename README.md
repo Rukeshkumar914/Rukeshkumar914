@@ -1,4 +1,4 @@
-## Hi there 👋 I am Rukesh Yadav, CSE student from India
+## Hi there 👋 I am Rukesh kumar, CSE student from India
 
 <!--
 **Rukeshkumar914/Rukeshkumar914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
