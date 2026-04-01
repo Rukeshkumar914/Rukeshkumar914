@@ -17,18 +17,6 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
 
 ---
 
----
-
-## 🚀 Projects
-
-### 📊 Data Analysis Project
-- 🔗 [View Project](https://github.com/Rukeshkumar914/Hotel-Booking)
-- 📌 Data analysis using Python
----
-
-
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
