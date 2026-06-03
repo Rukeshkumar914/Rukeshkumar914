@@ -20,8 +20,7 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
 ## 📊 GitHub Stats
 
 <p align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=Rukeshkumar914&theme=github-dark-blue "/>
+  <img src="https://streak-stats.demolab.com/?user=Rukeshkumar914&theme=tokyonight" />
 </p>
 
 ---
