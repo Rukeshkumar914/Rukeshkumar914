@@ -21,7 +21,7 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
 
 <p align="center">
   
-  <img src="https://streak-stats.demolab.com/?user=Rukeshkumar914&theme=radical"/>
+  <img src="https://streak-stats.demolab.com/?user=Rukeshkumar914&theme=github-dark-blue "/>
 </p>
 
 ---
