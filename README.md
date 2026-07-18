@@ -37,16 +37,6 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night"/>
 </p>
 
- ## 🛠 Skills
-
-## 📊 GitHub Stats
-
-## 🔥 GitHub Streak
-
-## 📈 Contribution Graph
-
-<!-- 👇 YAHAN PASTE KARO -->
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -59,9 +49,6 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
 | 📊 Matplotlib | Data visualization | Python |
 | 📈 Seaborn | Statistical visualization | Python |
 | 🏨 Hotel Booking Analysis | EDA Project | Python |
-| 🌐 Portfolio | Personal Website | HTML, CSS |
-
-## ⭐ Thanks For Visiting
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=⭐+Thanks+For+Visiting+My+Profile!+⭐" />
