@@ -53,6 +53,10 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
 
 ---
 
+<h3 align="center">⭐✨ Thanks for Visiting My Profile! ✨⭐</h3>
+
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  💙 <b>Thank You for Stopping By!</b> <br>
+  🚀 Keep Learning • Keep Building • Keep Growing <br>
+  🌟 Happy Coding! 💻
 </p>
