@@ -22,7 +22,7 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight" />
+  <img width="49%" src=" https://github-readme-stats.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight " />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukeshkumar914&layout=compact&theme=tokyonight" />
 </p>
 
