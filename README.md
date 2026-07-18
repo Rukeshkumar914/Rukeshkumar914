@@ -24,19 +24,18 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rukeshkumar914&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
-# 🔥 GitHub Activity
-
-## 🔥 GitHub Activity
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img width="38%" src="https://github-readme-streak-stats.herokuapp.com?user=Rukeshkumar914&theme=tokyonight" />
-
-  <br><br><br>
-
-<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=false&border_radius=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rukeshkumar914&theme=tokyonight"/>
 </p>
+---
 
-<br><br><br>
+# 📉 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night"/>
+</p>
  
 
 <p align="center">
