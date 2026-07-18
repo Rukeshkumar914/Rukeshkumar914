@@ -1,64 +1,72 @@
-# Hi 👋, I'm Rukesh
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Rukesh+Kumar;Aspiring+Data+Analyst;Python+|+SQL+|+Power+BI" />
+</h1>
 
-<h3 align="center">🚀 DevOps Engineer | AWS | Linux | Docker | Kubernetes</h3>
+---
+
+# 🚀 About Me
+
+- 💻 I am learning Data Analytics
+- 🌱 Currently learning Python, NumPy, Pandas, Matplotlib & Seaborn
+- 📊 Interested in Data Visualization & Analytics
+- 🎯 Goal: Become a Data Analyst
+
+---
+
+# 🛠 Skills
+
+Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | Git | GitHub
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;DevOps+Engineer;AWS+Cloud+Learner;Linux+Enthusiast;Always+Learning+New+Things" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🔥 GitHub Streak
 
-- 🌱 Learning **AWS, Linux, Docker, Kubernetes**
-- 💻 Interested in DevOps & Cloud
-- 📫 Email: your@email.com
-- ⚡ Goal: Become a Professional DevOps Engineer
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,git,github,bash,python,terraform,jenkins,vscode" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rukeshkumar914&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Top Languages
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukeshkumar914&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophy
+# 📉 Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+<a href="mailto:yrukesh787@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rukeshkumar914">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 👀 Visitors
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
----
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
