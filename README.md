@@ -25,12 +25,20 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
 </p>
 
 
-# 🔥 GitHub Activity
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img width="38%" src="https://github-readme-streak-stats.herokuapp.com?user=Rukeshkumar914&theme=tokyonight" />
+  <!-- Activity Graph -->
+</p>
 
-  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=false&border_radius=15" />
+<br><br>
+
+<h2 align="center">⭐ Thanks For Visiting My Profile ⭐</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Y_RUKESH&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
