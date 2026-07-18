@@ -24,22 +24,20 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rukeshkumar914&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
-
-## 🔥 GitHub Activity
-
-<p align="center">
-  <!-- Activity Graph -->
-</p>
-
-<br><br>
-
-<h2 align="center">⭐ Thanks For Visiting My Profile ⭐</h2>
-
-<br>
+# 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Y_RUKESH&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y_RUKESH&theme=tokyonight" />
 </p>
+
+<br><br><br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y_RUKESH&theme=tokyo-night" />
+</p>
+
+<br><br><br>
+ 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=⭐+Thanks+For+Visiting+My+Profile!+⭐" />
