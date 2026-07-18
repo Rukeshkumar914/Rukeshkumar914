@@ -32,8 +32,6 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
 
   <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=false&border_radius=15" />
 </p>
----
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=⭐+Thanks+For+Visiting+My+Profile!+⭐" />
