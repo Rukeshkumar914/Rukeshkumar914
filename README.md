@@ -25,17 +25,9 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
 </p>
 
 # 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rukeshkumar914&theme=tokyonight"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night"width="600"/>
-</p>
----
-
-# 📉 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night"width="600"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Rukeshkumar914&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night&hide_border=false" />
 </p>
 
 ## 🚀 Featured Projects
