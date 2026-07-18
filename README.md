@@ -12,11 +12,9 @@
 - 🎯 Goal: Become a Data Analyst
 
 ---
-
 # 🛠 Skills
 
 Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | Git | GitHub
-
 ---
 
 # 📊 GitHub Stats
@@ -25,7 +23,6 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rukeshkumar914&layout=compact&theme=tokyonight&count_private=true" />
 </p>
-
 ---
 
 # 🔥 GitHub Activity
@@ -36,21 +33,6 @@ Python | MySQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | MS Excel | G
   <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=false&border_radius=15" />
 </p>
 ---
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:yrukesh787@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rukeshkumar914">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
 ---
 
 <p align="center">
