@@ -61,11 +61,6 @@
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Rukeshkumar914&theme=tokyonight" />
 </p>
 
-## 📊 Contribution Details
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rukeshkumar914&theme=github_dark" />
-</p>
 
 ## 🚀 Featured Projects
 
