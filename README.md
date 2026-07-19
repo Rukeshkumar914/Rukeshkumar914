@@ -6,11 +6,19 @@
 
 # 🚀 About Me
 
-- 💻 I am learning Data Analytics
-- 🌱 Currently learning Python, NumPy, Pandas, Matplotlib & Seaborn
-- 📊 Interested in Data Visualization & Analytics
-- 🎯 Goal: Become a Data Analyst
+## 🛠 Skills
 
+<p>
+  <span style="color:#3776AB;"><b>Linux</b></span> |
+  <span style="color:#F05032;"><b>Git</b></span> |
+  <span style="color:#181717;"><b>GitHub</b></span> |
+  <span style="color:#2496ED;"><b>Docker</b></span> |
+  <span style="color:#FF9900;"><b>AWS</b></span> |
+  <span style="color:#326CE5;"><b>Kubernetes</b></span> |
+  <span style="color:#E34F26;"><b>HTML</b></span> |
+  <span style="color:#1572B6;"><b>CSS</b></span> |
+  <span style="color:#F7DF1E;"><b>JavaScript</b></span>
+</p>
 ---
 # 🛠 Skills
 
