@@ -6,19 +6,12 @@
 
 # 🚀 About Me
 
-## 🛠 Skills
-
-<p>
-  <span style="color:#3776AB;"><b>Linux</b></span> |
-  <span style="color:#F05032;"><b>Git</b></span> |
-  <span style="color:#181717;"><b>GitHub</b></span> |
-  <span style="color:#2496ED;"><b>Docker</b></span> |
-  <span style="color:#FF9900;"><b>AWS</b></span> |
-  <span style="color:#326CE5;"><b>Kubernetes</b></span> |
-  <span style="color:#E34F26;"><b>HTML</b></span> |
-  <span style="color:#1572B6;"><b>CSS</b></span> |
-  <span style="color:#F7DF1E;"><b>JavaScript</b></span>
-</p>
+<ul>
+  <li>💻 <span style="color:#00BFFF;"><b>I am learning DevOps</b></span></li>
+  <li>🌱 <span style="color:#32CD32;"><b>Currently learning Linux, Git, GitHub, Docker & AWS</b></span></li>
+  <li>🚀 <span style="color:#FFD700;"><b>Interested in Cloud & DevOps</b></span></li>
+  <li>🎯 <span style="color:#FF6347;"><b>Goal: Become a DevOps Engineer</b></span></li>
+</ul>
 ---
 # 🛠 Skills
 
