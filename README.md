@@ -3,45 +3,49 @@
 </h1>
 
 ---
-## 🚀 About Me
+## 📊 About Me
 
-- 🔵 **I’m currently learning:** Linux, Git, GitHub, Docker & AWS
-- 🟢 **Currently exploring:** Kubernetes, Jenkins & Terraform
-- 🟡 **Interested in:** Cloud Computing, CI/CD & Automation
-- 🔴 **Goal:** Become a Professional DevOps Engineer
-- 🟣 **Ask me about:** Linux, Git, GitHub & Docker
-- 🟠 **Fun Fact:** I love building and automating infrastructure.
+- 🔵 **Currently Learning:** Excel, SQL, Python & Power BI
+- 🟢 **Currently Exploring:** Data Visualization, Statistics & Machine Learning
+- 🟡 **Interested In:** Data Analysis, Business Intelligence & Data Storytelling
+- 🔴 **Goal:** Become a Professional Data Analyst
+- 🟣 **Ask Me About:** Excel, SQL, Python & Power BI
+- 🟠 **Currently Building:** Data Analysis Projects & Interactive Dashboards
+- ⚡ **Fun Fact:** I enjoy turning raw data into meaningful insights.
 
 ---
 
-## 🛠 Skills
+## 🛠️ Skills & Tools
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
+</p>
 </p>
 
 # 📊 GitHub Stats
