@@ -72,7 +72,6 @@
 | 🔢 NumPy | Numerical computing | Python |
 | 📊 Matplotlib | Data visualization | Python |
 | 📈 Seaborn | Statistical visualization | Python |
-| 🏨 Hotel Booking Analysis | EDA Project | Python |
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=⭐+Thanks+For+Visiting+My+Profile!+⭐" />
