@@ -11,7 +11,6 @@
 - 🔴 **Goal:** Become a Professional Data Analyst
 - 🟣 **Ask Me About:** Excel, SQL, Python & Power BI
 - 🟠 **Currently Building:** Data Analysis Projects & Interactive Dashboards
-- ⚡ **Fun Fact:** I enjoy turning raw data into meaningful insights.
 
 ---
 
