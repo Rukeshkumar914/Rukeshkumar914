@@ -8,7 +8,6 @@
 - 🔵 Currently Learning:** Excel, SQL, Python & Power BI
 - 🟢 **Currently Exploring:** Data Visualization, Statistics & Machine Learning
 - 🟡 **Interested In:** Data Analysis, Business Intelligence & Data Storytelling
-- 🔴 **Goal:** Become a Professional Data Analyst
 - 🟣 **Ask Me About:** Excel, SQL, Python & Power BI
 - 🟠 **Currently Building:** Data Analysis Projects & Interactive Dashboards
 
