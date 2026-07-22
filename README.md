@@ -64,7 +64,6 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🐍 Python | Python practice and projects | Python |
-| 💻 DSA | Data Structures & Algorithms | C++ |
 | 🗄️ MySQL | SQL queries | MySQL |
 | 🐼 Pandas | Data analysis | Python |
 | 🔢 NumPy | Numerical computing | Python |
