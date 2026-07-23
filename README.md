@@ -3,7 +3,7 @@
 </h1>
 
 ---
-## 📊 About Me
+# 📊 About Me
 
 - 🔵 Currently Learning:** Excel, SQL, Python & Power BI
 - 🟢 **Currently Exploring:** Data Visualization, Statistics & Machine Learning
@@ -48,7 +48,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rukeshkumar914&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
