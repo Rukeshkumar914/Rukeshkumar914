@@ -41,14 +41,19 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </p>
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukeshkumar914&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukeshkumar914&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
 </p>
 
----
+## 🏆 GitHub Grade
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight&hide_border=false&custom_title=Rukesh%27s%20GitHub%20Stats" />
+</p>
 
 ## 🔥 GitHub Streak
 
@@ -56,7 +61,11 @@
   <img src="https://streak-stats.demolab.com?user=Rukeshkumar914&theme=tokyonight&hide_border=false" />
 </p>
 
----
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukeshkumar914&layout=donut&theme=tokyonight&langs_count=8" />
+</p>
 
 ## 📈 GitHub Activity
 
