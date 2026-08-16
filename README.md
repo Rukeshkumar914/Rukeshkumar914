@@ -48,8 +48,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rukeshkumar914&layout=compact&theme=tokyonight&count_private=true" />
+  <img width="50%" src="https://github-readme-stats-vercel.app/api?username=Rukeshkumar914&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-vercel.app/api/top-langs/?username=Rukeshkumar914&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
 # 🔥 GitHub Activity
