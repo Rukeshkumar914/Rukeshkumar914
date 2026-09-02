@@ -47,6 +47,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rukeshkumar914&theme=tokyonight" width="48%" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rukeshkumar914&theme=tokyonight&hide_border=true" />
+</p>
 
 # 🔥 GitHub Streak
 
