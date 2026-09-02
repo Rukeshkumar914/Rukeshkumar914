@@ -42,21 +42,13 @@
 
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & 🔥 GitHub Streak
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rukeshkumar914&theme=tokyonight" width="48%" />
 </p>
-<p align="center">
+<p align="right">
   <img src="https://streak-stats.demolab.com?user=Rukeshkumar914&theme=tokyonight&hide_border=true" />
 </p>
 
-# 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rukeshkumar914&theme=tokyonight&hide_border=true" />
-</p>
-
-# 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=github)
