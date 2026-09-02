@@ -44,11 +44,15 @@
 
 ## 📊 GitHub Stats & 🔥 GitHub Streak
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rukeshkumar914&theme=tokyonight" width="48%" />
-</p>
-<p align="right">
-  <img src="https://streak-stats.demolab.com?user=Rukeshkumar914&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rukeshkumar914&theme=tokyonight" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=Rukeshkumar914&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 
 
