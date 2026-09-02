@@ -38,26 +38,25 @@
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 </p>
 
-# 📊 GitHub Stats & 🔥 GitHub Streak
+## 📊 GitHub Stats & 🔥 GitHub Streak
 
 <table>
 <tr>
-<td align="center" width="50%" style="padding-right: 25px; border-right: 3px solid #58a6ff;">
+<td align="center" width="48%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rukeshkumar914&theme=tokyonight" />
 
 </td>
 
-<td align="center" width="50%" style="padding-left: 25px;">
+<td width="4%"></td>
+
+<td align="center" width="48%">
 
 <img src="https://streak-stats.demolab.com?user=Rukeshkumar914&theme=tokyonight&hide_border=true" />
 
 </td>
 </tr>
 </table>
-
 
