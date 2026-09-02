@@ -42,15 +42,20 @@
 
 </p>
 
-## 📊 GitHub Stats & 🔥 GitHub Streak
+# 📊 GitHub Stats & 🔥 GitHub Streak
 
 <table>
 <tr>
-<td>
+<td align="center" width="50%" style="padding-right: 25px; border-right: 3px solid #58a6ff;">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rukeshkumar914&theme=tokyonight" />
+
 </td>
-<td>
+
+<td align="center" width="50%" style="padding-left: 25px;">
+
 <img src="https://streak-stats.demolab.com?user=Rukeshkumar914&theme=tokyonight&hide_border=true" />
+
 </td>
 </tr>
 </table>
