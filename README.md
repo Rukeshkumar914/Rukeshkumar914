@@ -54,8 +54,6 @@
   <img src="https://streak-stats.demolab.com?user=Rukeshkumar914&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rukeshkumar914&theme=github)
