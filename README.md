@@ -8,7 +8,7 @@
 - 🟡 **Interested in:** Cloud Computing, CI/CD & Automation
 - 🔴 **Goal:** Become a Professional DevOps Engineer
 - 🟣 **Ask me about:** Linux, Git, GitHub & Docker
-- 🟠 **Fun Fact:** I love building and automating infrastructure.
+
 
 ---
 
