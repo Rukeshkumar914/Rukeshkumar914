@@ -4,8 +4,8 @@
 # 🚀 About Me
 
 - 🔵 **I’m currently learning:** Linux, Git, GitHub, Docker & AWS
-- 🟢 **Currently exploring:** Kubernetes, Jenkins & Terraform
-- 🟡 **Interested in:** Cloud Computing, CI/CD & Automation
+- 🟢 **Currently exploring:** Kubernetes 
+- 🟡 **Interested in:** Cloud Computing
 - 🔴 **Goal:** Become a Professional DevOps Engineer
 - 🟣 **Ask me about:** Linux, Git, GitHub & Docker
 
@@ -26,16 +26,9 @@
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
 
 </p>
 
