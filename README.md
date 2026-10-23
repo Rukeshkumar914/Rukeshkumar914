@@ -1,13 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Hii+👋,+I'm+Rukesh+Kumar;Devops"/>
 </h1>
-# 🚀 About Me
 
-- 🔵 **I’m currently learning:** Linux, Git, GitHub, Docker & AWS
-- 🟢 **Currently exploring:** Kubernetes 
-- 🟡 **Interested in:** Cloud Computing
-- 🔴 **Goal:** Become a Professional DevOps Engineer
-- 🟣 **Ask me about:** Linux, Git, GitHub & Docker
 
 
 ---
