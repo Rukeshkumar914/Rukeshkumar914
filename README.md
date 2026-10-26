@@ -41,16 +41,13 @@
 </td>
 </tr>
 </table>
-## 🚀 Featured Projects
 
-Public repositories from my GitHub profile.
+🚀 Featured Projects
 
 | Repository | Description | Primary Language | Stars | Forks | Last Updated |
 |---|---|---|---:|---:|---|
 | [deployx](https://github.com/Rukeshkumar914/deployx) | Automated deployment platform using FastAPI, Docker, and GitHub Actions | Python | ⭐ 0 | 0 | 26 Oct 2026 |
 | [cloudforge](https://github.com/Rukeshkumar914/cloudforge) | Python-based Linux system monitoring with automated testing using pytest | Python | ⭐ 0 | 0 | 24 Oct 2026 |
 | [Django-notes-app-Docker-](https://github.com/Rukeshkumar914/Django-notes-app-Docker-) | Django notes application with Docker and MySQL integration | Python | ⭐ 0 | 0 | 21 Sep 2026 |
-| [portfolio](https://github.com/Rukeshkumar914/portfolio) | Personal DevOps portfolio website | HTML | ⭐ 0 | 0 | 24 Oct 2026 |
-| [new-flask-app](https://github.com/Rukeshkumar914/new-flask-app) | Flask application project | HTML | ⭐ 0 | 0 | 6 Sep 2026 |
 
 
