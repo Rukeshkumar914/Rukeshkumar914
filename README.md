@@ -50,5 +50,5 @@
 | [cloudforge](https://github.com/Rukeshkumar914/cloudforge) | Python-based Linux system monitoring with automated testing using pytest | Python | ⭐ 0 | 0 |
 | [InfraPilot](https://github.com/Rukeshkumar914/infrapilot) | Linux infrastructure diagnostics and automation toolkit for CPU, RAM, disk, and system monitoring | Python | ⭐ 0 | 0 |
 | [Django-notes-app-Docker-](https://github.com/Rukeshkumar914/Django-notes-app-Docker-) | Django notes application with Docker and MySQL integration | Python | ⭐ 0 | 0 |
-
+| [NimbusOps](YOUR_GITHUB_REPOSITORY_LINK) | End-to-end DevOps platform combining Python, PostgreSQL, Docker, CI/CD pipelines, health checks, and deployment history | Python | ⭐ 0 | 0 |
 
